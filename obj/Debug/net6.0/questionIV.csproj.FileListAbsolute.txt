@@ -1,0 +1,15 @@
+D:\questionIV\obj\Debug\net6.0\questionIV.csproj.AssemblyReference.cache
+D:\questionIV\obj\Debug\net6.0\questionIV.GeneratedMSBuildEditorConfig.editorconfig
+D:\questionIV\obj\Debug\net6.0\questionIV.AssemblyInfoInputs.cache
+D:\questionIV\obj\Debug\net6.0\questionIV.AssemblyInfo.cs
+D:\questionIV\obj\Debug\net6.0\questionIV.csproj.CoreCompileInputs.cache
+D:\questionIV\bin\Debug\net6.0\questionIV.exe
+D:\questionIV\bin\Debug\net6.0\questionIV.deps.json
+D:\questionIV\bin\Debug\net6.0\questionIV.runtimeconfig.json
+D:\questionIV\bin\Debug\net6.0\questionIV.dll
+D:\questionIV\bin\Debug\net6.0\questionIV.pdb
+D:\questionIV\obj\Debug\net6.0\questionIV.dll
+D:\questionIV\obj\Debug\net6.0\refint\questionIV.dll
+D:\questionIV\obj\Debug\net6.0\questionIV.pdb
+D:\questionIV\obj\Debug\net6.0\questionIV.genruntimeconfig.cache
+D:\questionIV\obj\Debug\net6.0\ref\questionIV.dll
